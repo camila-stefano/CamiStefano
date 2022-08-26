@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center" style='margin-bottom:4px'>
+  <img align="center" width="200" style='style= max-width: 100%;' src="https://i.imgur.com/NwButYC.png"/>
+</div>
 
-<!--
-**CamiStefano/CamiStefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=EA526F&center=true&vCenter=true&height=40&lines=Hello%2C+welcome+to+my+gitHub+profile!;I'm+Cami%2C+front-end+developer.;Nice+to+see+you+here+%3A)" alt="By Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left" style='margin-top:8px'>
+  <p>🔭 I’m currently working for <a href="https://www.fromdoppler.com/" style="color: #33AD73;"><strong>Doppler LLC<strong></a>.</p>
+  <p>🌱 I’m currently learning <strong>React JS<strong> at Skill Factory by <strong>Avalith<strong>.</p>
+  <p>📫 How to reach me: My Linkedin profile <a href="https://www.fromdoppler.com/" style="color: #0e76a8;"><strong>here<strong></a>✨</p>
+</div>

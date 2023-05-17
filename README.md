@@ -10,5 +10,5 @@
 <div align="left">
   <p>🔭 I’m currently working for <a href="https://www.fromdoppler.com/" target="_blank"><strong>Doppler LLC<strong></a>.</p>
   <p>🌱 I’m currently learning <strong>Vue.js<strong>.</p>
-  <p>📫 How to reach me: My Linkedin profile <a href="https://www.linkedin.com/in/camila-victoria-stefano-fioritto/" target="_blank"><strong>here<strong></a>✨</p>
+  <p>📫 How to reach me: My Linkedin profile <a href="https://www.linkedin.com/in/camila-victoria-stefano/" target="_blank"><strong>here<strong></a>✨</p>
 </div>
